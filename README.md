@@ -66,5 +66,5 @@ python agent.py
 With more time, this could connect to a live Power BI dashboard for continuous updates, or expand to a wider set of questions — e.g. enrollment trends, geographic distribution of trial sites, or comparisons against other sponsors.
 
 ---
-
+This is an independent, unofficial project and is not affiliated with or endorsed by AstraZeneca.
 *Built as a self-directed project to demonstrate the data + AI agent skills described in AstraZeneca's Data & AI Solutions Intern posting, using AstraZeneca's own public trial data.*
