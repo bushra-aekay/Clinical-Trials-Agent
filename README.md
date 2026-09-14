@@ -1,4 +1,4 @@
-# AstraZeneca Clinical Trials Agent
+# Clinical Trials Agent
 
 A small AI agent that answers plain-English questions about AstraZeneca's public clinical trial data.
 
